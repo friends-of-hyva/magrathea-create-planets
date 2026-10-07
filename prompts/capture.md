@@ -28,7 +28,7 @@ When in doubt, treat the invocation as in-flight if there's *any* concrete mater
   > "Are you planning to create **multiple issues** (planning session), or do you want to **start working** on this one right away?"
 
   - **Multiple issues** — after each issue is created, ask "Describe the next issue, or say `done` to finish."
-  - **Start working** — after creating the issue, automatically continue into the `/pickup` workflow (from Step 4: Load Context onward)
+  - **Start working** — after creating the issue, automatically continue into the `/pickup` workflow (from Step 2: Load Context onward)
 
 ## 2. Gather Issue Details
 
